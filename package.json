@@ -22,7 +22,7 @@
     "angular-formio": "^4.2.9",
     "core-js": "^3.3.2",
     "formiojs": "^4.4.2",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "ngx-bootstrap": "^5.2.0",
     "rxjs": "~6.4.0",
     "tslib": "^1.10.0",
