@@ -21,7 +21,7 @@
     "@angular/router": "~8.2.3",
     "angular-formio": "^4.2.9",
     "core-js": "^3.3.2",
-    "formiojs": "^4.4.2",
+    "formiojs": "^4.14.11",
     "lodash": "^4.17.15",
     "ngx-bootstrap": "^5.2.0",
     "rxjs": "~6.4.0",
